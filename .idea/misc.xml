@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/drawable/ic_cloud_black_24dp.xml" value="0.3185" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout-land/fragment_local.xml" value="0.3271604938271605" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/activity_image_display.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/activity_receive.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/backup_activity.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/base_list_activity.xml" value="0.24270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/bucket_activity_add.xml" value="0.24270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/bucket_item.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/download_activity.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/fragment_cloud.xml" value="0.15780141843971632" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/fragment_loading.xml" value="0.2598958333333333" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/loading_alert.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/object_item_file.xml" value="0.24270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/object_item_folder.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/picture_browser.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/picture_folder_item.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/layout/upload_activity.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/menu/bucket.xml" value="0.24270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/menu/object.xml" value="0.24270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/menu/synchronization.xml" value="0.24270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/SecurityCloudAlbum/app/src/main/res/xml/network_security_config.xml" value="0.2223731884057971" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/drawable/ic_image_black_24dp.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/drawable/ic_me_black_24dp.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/drawable/thumb.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/drawable/thumb_drawable.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout-land/fragment_local.xml" value="0.2019400352733686" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/activity_image_display.xml" value="0.22760416666666666" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/activity_key_gen.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/activity_receive.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/activity_share.xml" value="0.23854166666666668" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/activity_strategy_gen.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/base_list_activity.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/bucket_activity_add.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/bucket_item.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/cloud_image_display.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/download_activity.xml" value="0.23854166666666668" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/fragment_cloud.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/fragment_loading.xml" value="0.22760416666666666" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/fragment_local.xml" value="0.22760416666666666" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/fragment_me.xml" value="0.22760416666666666" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/fragment_share.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/indicator_holder.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/object_item_file.xml" value="0.20104166666666667" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/pic_holder_item.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/picture_browser.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/picture_browser_pager.xml" value="0.24791666666666667" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/picture_folder_item.xml" value="0.1160081053698075" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/region_activity.xml" value="0.22760416666666666" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/region_item.xml" value="0.23854166666666668" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/layout/upload_activity.xml" value="0.23854166666666668" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/menu/bucket.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/menu/object.xml" value="0.22760416666666666" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/menu/object_bottom_menu.xml" value="0.38645833333333335" />
+        <entry key="..\:/AndroidStudioProjects/testApplication2/app/src/main/res/menu/upload.xml" value="0.5" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.23981481481481481" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/drawable/ic_image_black_24dp.xml" value="0.24074074074074073" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24074074074074073" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/drawable/ic_me_black_24dp.xml" value="0.24074074074074073" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/drawable/line_drawable.xml" value="0.2" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/drawable/thumb.xml" value="0.2" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/drawable/thumb_drawable.xml" value="0.2" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout-land/fragment_local.xml" value="0.1" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/activity_image_display.xml" value="0.2" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/activity_share.xml" value="0.24114583333333334" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/base_list_activity.xml" value="0.1" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/bucket_activity_add.xml" value="0.12916666666666668" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/bucket_item.xml" value="0.12916666666666668" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/cloud_image_display.xml" value="0.22146739130434784" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/download_activity.xml" value="0.12916666666666668" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/fragment_cloud.xml" value="0.21739130434782608" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/fragment_dashboard.xml" value="0.21693840579710144" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/fragment_home.xml" value="0.21739130434782608" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/fragment_loading.xml" value="0.12916666666666668" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/fragment_local.xml" value="0.21739130434782608" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/fragment_me.xml" value="0.21739130434782608" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/indicator_holder.xml" value="0.16394927536231885" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/object_item_file.xml" value="0.12916666666666668" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/object_item_folder.xml" value="0.12916666666666668" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/pic_holder_item.xml" value="0.16394927536231885" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/picture_browser.xml" value="0.16394927536231885" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/picture_browser_pager.xml" value="0.16394927536231885" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/picture_folder_item.xml" value="0.1" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/region_activity.xml" value="0.12916666666666668" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/region_item.xml" value="0.12916666666666668" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/layout/upload_activity.xml" value="0.12916666666666668" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/menu/bucket.xml" value="0.15104166666666666" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/menu/object.xml" value="0.1" />
+        <entry key="..\:/daima/Android/testApplication2/app/src/main/res/menu/upload.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

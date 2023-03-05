@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.Share.ShareFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:text="@string/share_instructions"
+        android:background="@color/grey"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+
+    <Button
+        android:id="@+id/btn_keygen"
+        android:text="生成共享密钥"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        />
+
+
+    <EditText
+        android:id="@+id/et_keyrec"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:ellipsize="middle"
+        android:gravity="center"
+        android:hint="请粘贴分享密钥"
+        android:imeOptions="actionDone"
+        android:inputType="text"
+        android:textColorHint="#95A1AA"/>
+    <Button
+        android:id="@+id/btn_keyrec"
+        android:text="确认共享密钥"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"/>
+
+
+    <EditText
+        android:id="@+id/et_urlrec"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:ellipsize="middle"
+        android:gravity="center"
+        android:hint="请粘贴图片分享链接"
+        android:inputType="text"
+        android:textColorHint="#95A1AA" />
+
+    <Button
+        android:id="@+id/btn_urlrec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="确认分享链接"
+        android:textSize="15sp"
+        />
+
+
+</LinearLayout>

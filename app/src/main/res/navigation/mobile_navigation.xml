@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_local_image">
+
+    <fragment
+        android:id="@+id/navigation_local_image"
+        android:name="com.example.sca.ui.local.LocalFragment"
+        android:label="@string/title_local_image"
+        tools:layout="@layout/fragment_local" />
+
+    <fragment
+        android:id="@+id/navigation_cloud_image"
+        android:name="com.example.sca.ui.cloud.CloudFragment"
+        android:label="@string/title_cloud_image"
+        tools:layout="@layout/fragment_cloud" />
+
+    <fragment
+        android:id="@+id/navigation_share"
+        android:name="com.example.sca.ui.Share.ShareFragment"
+        android:label="@string/title_share"
+        tools:layout="@layout/fragment_share" />
+</navigation>

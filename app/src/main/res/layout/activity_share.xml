@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tv_share"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/grey"
+        android:text="分享链接正在加载"
+        android:textColor="#000000"
+        android:textSize="15sp"
+        android:textIsSelectable="true"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="分享链接如上"
+        android:textColor="#95A1AA"
+        android:textSize="20sp" />
+
+
+</LinearLayout>

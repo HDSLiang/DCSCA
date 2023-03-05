@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SecurityCloudAlbum</string>
+    <string name="app_name_chinese">SimpleImageGallery</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_local_image">Local Image</string>
+    <string name="title_cloud_image">Cloud Image</string>
+    <string name="title_share">Share Image</string>
+    <string name="folderName">Folder Name</string>
+    <string name="appName">Simple Image Gallery</string>
+    <string name="empty">No Images on this device</string>
+
+    <string name="photos_name">Photos</string>
+    <string name="gallery">Gallery</string>
+    <string name="local_gallery">本地</string>
+    <string name="cloud_gallery">云端</string>
+    <string name="share">共享</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="bucket_add">新建桶</string>
+    <string name="bucket_add_title">新建存储桶</string>
+    <string name="region">选择区域</string>
+    <string name="object_title">文件列表</string>
+    <string name="upload">上传</string>
+    <string name="upload_title">上传文件</string>
+    <string name="choose_photo">选择文件</string>
+    <string name="download_title">下载文件</string>
+    <string name="cloud_display_title">图片详情</string>
+    <string name="COS_APP_ID">1302478155</string>
+    <string name="share_instructions">共享说明:\n
+        发送方: 1. 与接收方第一次分享需要先共享密钥再从云端共享图片 2.之后便可直接共享图片，无需共享密钥\n
+        接收方: 1. 第一次接收发送方的分享需先接收密钥再接收分享链接 2.之后便可直接接收共享链接，无需接收共享密钥    </string>
+    <string name="sync">同步</string>
+</resources>
